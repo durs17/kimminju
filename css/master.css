@@ -6,7 +6,7 @@
 .bg header {width: 100%;
   background-color: #B1CECE;
   height: 140px;
-  opacity: 80%;
+  background-color: rgba( 177, 206, 206, 0.9 );
   text-align: center;
   position: fixed;
 
@@ -123,9 +123,9 @@ footer {position: relative;
         background-position: center;}
 
         .s1 header {width: 100%;
-                    background-color: #B1CECE;
+                    background-color: #ffffff;
                     height: 70px;
-                    opacity: 50%;
+                    background-color: rgba( 255, 255, 255, 0.5 );
                     text-align: center;
                     position: fixed;}
 
@@ -229,9 +229,9 @@ footer {position: relative;
           background-position: center;}
 
           .s2 header {width: 100%;
-                      background-color: #B1CECE;
+                      background-color: #ffffff;
                       height: 70px;
-                      opacity: 50%;
+                      background-color: rgba( 255, 255, 255, 0.5 );
                       text-align: center;
                       position: fixed;}
 
@@ -284,9 +284,9 @@ margin: auto;}
           background-position: center;}
 
           .s3 header {width: 100%;
-                      background-color: #B1CECE;
+                      background-color: #ffffff;
                       height: 70px;
-                      opacity: 50%;
+                      background-color: rgba( 255, 255, 255, 0.5 );
                       text-align: center;
                       position: fixed;}
 
@@ -378,9 +378,9 @@ select {position: relative;
     background-position: center;}
 
 .s4 header {width: 100%;
-            background-color: #B1CECE;
+            background-color: #ffffff;
             height: 70px;
-            opacity: 50%;
+            background-color: rgba( 255, 255, 255, 0.5 );
             text-align: center;
             position: fixed;}
 
@@ -431,9 +431,9 @@ select {position: relative;
           background-position: center;}
 
       .s5 header {width: 100%;
-                  background-color: #B1CECE;
+                  background-color: #ffffff;
                   height: 70px;
-                  opacity: 50%;
+                  background-color: rgba( 255, 255, 255, 0.5 );
                   text-align: center;
                   position: fixed;}
 
